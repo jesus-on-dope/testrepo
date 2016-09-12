@@ -1,4 +1,17 @@
 tha raw idea:
-create a new usser interface like shruthi XT
+create a new usser interface like shruthi XT as a universal Control Surface:
+- Midi Ports in and out
+- controls for a number of oscillators (4?)
+- controls for filter
+- controls for envelopes
+- (Touch)-Display for Mod-Matrix and additional settings
+
+
 create a new digital board based on arduino due, check if the dacs work (i.e. sound good) as audio outputs
 create an adapter board/pinout to use  shruthi 1 filter boards 
+
+migrate shruthi sourcecode to arduino due
+design an PC editor / VST right from the start
+
+raw Idea 2:
+create a midi controller to modify note verlocity like an audio mixer
